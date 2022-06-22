@@ -1,4 +1,4 @@
-<a href="https://t.me/wahid_abduhakimov"><img src="e81b1dab36d87b7ec32d947803f426bf.jpg" align="right" height="200"/></a>
+<a href="https://t.me/A_Umar03"><img src="9bd406cb-8a79-44fe-99e4-3a1848e6215e.jpeg" align="right" height="200"/></a>
 
 # Hi there, I'm Umar 👋
 
