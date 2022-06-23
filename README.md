@@ -18,7 +18,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Studying as a Software Engineer at [Ilmhub IT School](https://ilmhub.uz/).
-  - 👨‍🏫 &nbsp; Studying at Tashkent State University of Economics[TSUE](https://tsue.uz/)
+  - 👨‍🏫 &nbsp; Studying at Tashkent State University of Economics [TSUE](https://tsue.uz/)
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: umartsue@gmail.com
 
